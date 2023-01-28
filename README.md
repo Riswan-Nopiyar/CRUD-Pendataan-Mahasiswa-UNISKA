@@ -22,13 +22,13 @@
 - [x] tahun angkatan
 - [x] status mahasiswa
 
-### Table data dan hapus data
+### Table data dan hapus data (detail)
 ![Detail Mahasiswa](https://user-images.githubusercontent.com/103617674/215236857-2da0c527-b1d3-424a-a15e-aac3fa14b98b.png)
 
-### Tambah data
+### Tambah data (detail)
 ![Tambah detail mahasiswa](https://user-images.githubusercontent.com/103617674/215237183-431b4123-962c-4773-8c6b-ec8b5b4b481f.png)
 
-### Edit data
+### Edit data (detail)
 ![Edit detail Mahasiswa](https://user-images.githubusercontent.com/103617674/215237018-481acfc3-9bee-41e6-8c1e-d8afc40369ee.png)
 
 
@@ -40,13 +40,13 @@
 - [x] Nilai
 - [x] Huruf
 
-### Table data dan hapus data
+### Table data dan hapus data (nilai)
 ![Nilai Mahasiswa](https://user-images.githubusercontent.com/103617674/215236884-70f7bcca-16ad-4159-8cf0-e6433b4afb75.png)
 
-### Tambah data
+### Tambah data (nilai)
 ![Tambah nilai](https://user-images.githubusercontent.com/103617674/215237176-cafff3af-5b9d-41ac-adc6-1d685d67a943.png)
 
-### Edit data
+### Edit data (nilai)
 ![Edit Nilai](https://user-images.githubusercontent.com/103617674/215236956-0760bab7-6fcb-45f0-854c-82421308078f.png)
 
 
