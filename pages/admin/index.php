@@ -3,7 +3,7 @@ session_start();
 
 require "../../koneksi/koneksi.php";
 
-if ( empty( $_SESSION["login"] ) ) header ("Location: ../../login.php?res=2");
+if ( empty( $_SESSION["login"] ) ) header ("Location: ../../login/login.php");
 
 $SQL = "SELECT * FROM admin";
 $query_results = mysqli_query($conn, $SQL);

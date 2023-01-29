@@ -2,7 +2,7 @@
 session_start();
 require "../../koneksi/koneksi.php";
 
-if ( empty($_SESSION["login"]) ) header ("Location: ../../login.php?res=2");
+if ( empty($_SESSION["login"]) ) header ("Location: ../../login/login.php");
 
 $SQL = "SELECT mahasiswa.nama, nilai.mata_kuliah, nilai.id, nilai.nilai, nilai.huruf FROM mahasiswa INNER JOIN nilai ON mahasiswa.id = nilai.id_mhs";
 $query_results = mysqli_query($conn, $SQL);

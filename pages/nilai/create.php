@@ -2,7 +2,7 @@
 session_start();
 require "../../koneksi/koneksi.php";
 
-if ( empty($_SESSION["login"]) ) header ("Location: ../../login.php?res=2");
+if ( empty($_SESSION["login"]) ) header ("Location: ../../login.php");
 
 function createGrade($val) {
   $num = intval($val);
